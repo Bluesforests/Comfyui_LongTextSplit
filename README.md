@@ -35,8 +35,9 @@ A concise ComfyUI node, split long text files into multiple prompts, and automat
 5. Set the batch count for the queue
 
 ## Example
+[workflow sample](https://github.com/Bluesforests/Comfyui_LongTextSplit/blob/main/ComfyUI-LongTextSplit/workflow-sample.json)   
 
-
+![image](https://github.com/Bluesforests/Comfyui_LongTextSplit/blob/main/ComfyUI-LongTextSplit/workflow.jpeg)
 
 ## Notes
 
